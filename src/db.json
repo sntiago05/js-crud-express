@@ -1,0 +1,29 @@
+[
+  {
+    "id": "AA02BB",
+    "name": "Carlos",
+    "lastname": "Perez",
+    "birthDate": "12-03-1995",
+    "photo": "https://picsum.photos/seed/carlos/400/400",
+    "description": "Le gusta el baloncesto",
+    "color": "blue"
+  },
+  {
+    "id": "123",
+    "name": "gepeto",
+    "lastname": "ds",
+    "birthDate": "2026-05-06",
+    "photo": "https://img.magnific.com/foto-gratis/joven-hombre-barbudo-camisa-rayas_273609-5677.jpg?semt=ais_hybrid&w=740&q=80",
+    "description": "aeiou",
+    "color": "green"
+  },
+  {
+    "id": "",
+    "name": "ba",
+    "lastname": "be",
+    "birthDate": "2026-05-08",
+    "photo": "https://www.istockphoto.com/resources/images/PhotoFTLP/P1-regional-iStock-1985150440.jpg",
+    "description": "sadsadsadasd",
+    "color": "red"
+  }
+]
