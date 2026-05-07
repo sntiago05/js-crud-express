@@ -32,7 +32,7 @@ app.post("/malecon", (req, res) => {
 
     data.push(req.body)
 
-    saveData(data)   // 🔥 FALTABA ESTO
+    saveData(data) 
 
     res.status(201).json({
         message: "creado con exito"
